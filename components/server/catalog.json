@@ -1,13 +1,13 @@
 [
     {
         "id": "el1",
-        "name": "Кукла Barbie Экстра в розовой куртке",
+        "name": "Кукла Barbie Экстра в розовом",
         "img": "img/catalog/barby.jpg",
         "price": 3999
     },
     {
         "id": "el2",
-        "name": "Мягкая игрушка Laffi Медвежонок бежевый",
+        "name": "Мягкая игрушка Laffi",
         "img": "img/catalog/bear.jpg",
         "price": 2999
     },
@@ -25,19 +25,19 @@
     },
     {
         "id":  "el5",
-        "name": "Подушка Verossa Верблюд 50x70 см",
+        "name": "Подушка Verossa Верблюд",
         "img": "img/catalog/pillow.jpg",
         "price": 1700
     },
     {
         "id":  "el6",
-        "name": "Грузовик Fun Toy электромеханический",
+        "name": "Грузовик Fun Toy",
         "img": "img/catalog/truck.jpg",
         "price": 5200
     },
     {
         "id":  "el7",
-        "name": "Квадрокоптер Mobicaro Asterus с удержанием высоты",
+        "name": "Квадрокоптер Mobicaro Asterus",
         "img": "img/catalog/kvadro.jpg",
         "price": 6350
     },
@@ -55,7 +55,7 @@
     },
     {
         "id": "el10",
-        "name": "Игрушка LOL Surprise Color change",
+        "name": "Игрушка LOL Surprise",
         "img": "img/catalog/lol.jpg",
         "price": 1780
     }

@@ -6,8 +6,8 @@ class Header {
 
 render (count){
     let html = `
-    <div class='header-contein'>
-          <div class='header-counter' onclick = 'headerPage.hendlerOpenShoppingPage();'>
+    <div class='contein'>
+          <div class='counter' onclick = 'headerPage.hendlerOpenShoppingPage();'>
           🧙🏻‍♀️ ${count}
           </div>
     </div>

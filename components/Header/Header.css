@@ -1,11 +1,11 @@
-.header-contein {
+.contein {
     display: flex;
     height: 52px;
     padding: var(--spacing-small);
     background-color: #FFCC99;
 
 }
-.header-counter {
+.counter {
     margin-left: auto;
     padding-right: 20px ;
     font-weight: bold;
